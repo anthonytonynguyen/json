@@ -1,0 +1,128 @@
+﻿[
+  {
+    "name": "Tom Hardy",
+    "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
+    "phone": "(541) 754-3010",
+    "email": "HardyT@hotmail.com",
+    "address": "1122 Robertson Boulevard #15 Los Angeles, CA 90035"
+  },
+  {
+    "name": "Johnny Depp",
+    "image": "https://api.androidhive.info/json/images/johnny.jpg",
+    "phone": "(452) 839-1210",
+    "email": "DeppJ@gmail.com",
+    "address": "1828 Courtney Avenue Los Angeles, CA 90046"
+  },
+  {
+    "name": "Tom Cruise",
+    "image": "https://api.androidhive.info/json/images/tom_cruise.jpg",
+    "phone": "(541) 453-2311",
+    "email": "CruiseT@yahoo.com",
+    "address": "955 S. Carrillo Drive #200 Los Angeles, CA 90048"
+  },
+  {
+    "name": "Keira Knightley",
+    "image": "https://api.androidhive.info/json/images/keira.jpg",
+    "phone": "(535) 324-4334",
+    "email": "KnightleyK@aol.com",
+    "address": "1122 S. Robertson Boulevard #15 Los Angeles, CA 9035"
+  },
+  {
+    "name": "Robert De Niro",
+    "image": "https://api.androidhive.info/json/images/robert_de.jpg",
+    "phone": "(767) 544-8867",
+    "email": "DeNiroR@hotmail.com",
+    "address": "9830 Wilshire Boulevard Beverly Hills, CA 90212"
+  },
+  {
+    "name": "Leonardo DiCaprio",
+    "image": "https://api.androidhive.info/json/images/leonardo.jpg",
+    "phone": "(564) 333-2452",
+    "email": "DiCaprioL@gmail.com",
+    "address": "80033 Sunset Boulevard #88 Los Angeles, CA 90046"
+  },
+  {
+    "name": "Will Smith",
+    "image": "https://api.androidhive.info/json/images/will.jpg",
+    "phone": "(541) 879-3453",
+    "email": "SmithW@gmail.com",
+    "address": "9830 Wilshire Boulevard Beverly Hills, CA 90212"
+  },
+  {
+    "name": "Russell Crowe",
+    "image": "https://api.androidhive.info/json/images/russell.jpg",
+    "phone": "(234) 234-3321",
+    "email": "CroweR@hotmail.com",
+    "address": "966 S.Carrillo DriveSuite 200 Los Angeles, CA 90048"
+  },
+  {
+    "name": "Brad Pitt",
+    "image": "https://api.androidhive.info/json/images/brad.jpg",
+    "phone": "(567) 754-8945",
+    "email": "PittB@gmail.com",
+    "address": "9560 Wilshire Boulevard #516 Beverley Hills, CA 90212"
+  },
+  {
+    "name": "Angelina Jolie",
+    "image": "https://api.androidhive.info/json/images/angelina.jpg",
+    "phone": "(324) 754-5433",
+    "email": "JolieA@yahoo.com",
+    "address": "9830 Wilshire Boulevard Beverly Hills, CA 90212"
+  },
+  {
+    "name": "Kate Winslet",
+    "image": "https://api.androidhive.info/json/images/kate.jpg",
+    "phone": "(788) 343-3433",
+    "email": "WinsletK@att.net",
+    "address": "151 El Camino Drive Beverly Hills, CA 90212"
+  },
+  {
+    "name": "Christian Bale",
+    "image": "https://api.androidhive.info/json/images/christian.jpg",
+    "phone": "(865) 755-3555",
+    "email": "BaleC@att.net",
+    "address": "9560 Wilshire Boulevard #516 Beverly Hills, CA 90212"
+  },
+  {
+    "name": "Morgan Freeman",
+    "image": "https://api.androidhive.info/json/images/morgan.jpg",
+    "phone": "(445) 776-9076",
+    "email": "FreemanM@comcast.com",
+    "address": "8924 Wilshire Boulevard Beverly Hills, CA 90211"
+  },
+  {
+    "name": "Hugh Jackman",
+    "image": "https://api.androidhive.info/json/images/hugh.jpg",
+    "phone": "(544) 454-4544",
+    "email": "JackmanH@comcast.com",
+    "address": "8942 Wilshire Boulevard Beverly Hills, CA 90211"
+  },
+  {
+    "name": "Keanu Reeves",
+    "image": "https://api.androidhive.info/json/images/keanu.jpg",
+    "phone": "(454) 455-5445",
+    "email": "ReevesK@gmail.com",
+    "address": "6153 Bonsall Drive Malibu, CA 90265"
+  },
+  {
+    "name": "Tom Hanks",
+    "image": "https://api.androidhive.info/json/images/tom.jpg",
+    "phone": "(541) 454-4544",
+    "email": "HanksT@hotmail.com",
+    "address": "5855 Topanga Canyon #410 Woodland Hills, CA 91367"
+  },
+  {
+    "name": "Scarlett Johansson",
+    "image": "https://api.androidhive.info/json/images/scarlett.jpg",
+    "phone": "(545) 454-2567",
+    "email": "JohanssonS@yahoo.com",
+    "address": "9454 Wilshire Boulevard #405 Beverly Hills, CA 90212"
+  },
+  {
+    "name": "Robert Downey Jr.",
+    "image": "https://api.androidhive.info/json/images/robert.jpg",
+    "phone": "(444) 444-4444",
+    "email": "DowneyJrR@hotmail.com",
+    "address": "9665 Wilshire Boulevard #200 Beverly Hills,CA 90212"
+  }
+]
